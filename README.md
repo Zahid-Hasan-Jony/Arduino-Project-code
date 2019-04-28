@@ -1,7 +1,7 @@
 # Arduino-Project-code
 All the arduino project codes are here which are done by me.
 
-If you are going to interface different sensors with arduino then you can follow this section to find necessary codes.
+If you are going to interface different sensors with arduino then you can follow this section to find necessary codes. Use required arduino libray file from **libraries** folder.
 
 1. First install arduino IDE link: https://www.arduino.cc/en/Main/Software
 
